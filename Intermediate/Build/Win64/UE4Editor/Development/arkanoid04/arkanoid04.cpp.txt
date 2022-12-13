@@ -1,0 +1,2 @@
+E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04\Intermediate\Build\Win64\UE4Editor\Development\arkanoid04\Definitions.arkanoid04.h
+E:\juana\Desktop\Ing de Sistemas\LIBROS SIS457\arkanoid04\Source\arkanoid04\arkanoid04.h

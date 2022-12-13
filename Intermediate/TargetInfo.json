@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "arkanoid04",
+			"Path": "E:\\juana\\Desktop\\Ing de Sistemas\\LIBROS SIS457\\arkanoid04\\Source\\arkanoid04.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "arkanoid04Editor",
+			"Path": "E:\\juana\\Desktop\\Ing de Sistemas\\LIBROS SIS457\\arkanoid04\\Source\\arkanoid04Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
